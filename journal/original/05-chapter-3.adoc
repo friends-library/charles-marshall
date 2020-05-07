@@ -1,14 +1,20 @@
 == Chapter III.
 
-A warning to the cities of London and Bristol--Remarkable protection from persecution
-during his travels through the nation--His sufferings at some other times--Great convincements
-which resulted from his Gospel labours--Notice of the apostacy of John Wilkinson,
-and John Story,
-and exercises occasioned thereby--The designs of the separatists
-defeated--Charles Marshall is imprisoned in London--Remarks on
-his Gospel labours and other service--His last illness and decease.
+[.chapter-synopsis]
+* A warning to the cities of London and Bristol
+* Remarkable protection from persecution during his travels through the nation
+* His sufferings at some other times
+* Great convincements which resulted from his Gospel labours
+* Notice of the apostasy of John Wilkinson, and John Story, and exercises occasioned thereby
+* The designs of the separatists defeated
+* Charles Marshall is imprisoned in London
+* Remarks on his Gospel labours and other service
+* His last illness and decease
 
-WHEN visiting the city of London, I left a paper, a copy whereof here followeth.
+When visiting the city of London, I left a paper, a copy whereof here followeth:
+
+[.embedded-content-document.paper]
+--
 
 A warning to the people that have lent their ear to the declaration of the truth,
 and have not received it in the love of it.
@@ -31,6 +37,8 @@ to come upon the inhabitants of the city of London,
 and the begirdings of sorrow upon the nation of England; and after this day,
 the day of gathering through nations,
 of the dispersed of Israel and the scattered of Jacob.
+
+--
 
 In the name and authority of God Almighty,
 I also cleared my conscience of the city of Bristol,
@@ -69,6 +77,9 @@ unto Him, through generations, be given and rendered everlasting praises, honour
 holy thanksgiving and renown, +++[+++even]
 unto Him who liveth forever and ever.
 
+[.small-break]
+'''
+
 +++[+++Although Charles Marshall was,
 as he observes whilst engaged in the above-mentioned extensive service,
 preserved in a remarkable manner, from imprisonment and personal abuse,
@@ -101,11 +112,17 @@ griping him so, by the side, as caused him to spit blood;
 and haled him out of the meeting;
 which hurt he felt and complained of long after.--Editor]
 
+[.small-break]
+'''
+
 +++[+++The Editor is unwilling to pass from the subject of sufferings,
 without inserting an extract from a letter written to Charles Marshall,
 wherein is exhibited the efficacy of that divine support,
 through which our early Friends were enabled, even when under bonds and afflictions,
 to rejoice, and give thanks.
+
+[.embedded-content-document.letter]
+--
 
 Through the mercy of the Lord and his goodness towards me and my fellow-prisoners,
 we have no cause to complain in our sufferings;
@@ -114,13 +131,19 @@ which refreshes our souls and rejoices our hearts.
 For these his mercies, let my soul bless his holy name, and that forever more,
 who makes hard things easy and heavy burdens light, through his goodness and mercy.
 
+[.signed-section-signature]
 John Harris.
+
+--
 
 The said John Harris was committed to prison at Fisherton-Anger in the Eighth Month,
 1683, at the suit of Daniel Salloway, priest of Hilmarton.
 When in prison, the priest his prosecutor,
 endeavoured to persuade the jailer to keep him close,
 and not allow him the benefit of the air.--Besse.]
+
+[.small-break]
+'''
 
 After this, I did not travel so constantly or swiftly, nor +++[+++have I]
 kept any account of many remarkable things,
@@ -258,7 +281,7 @@ After this time did the enemy fill the heart of the priest of the parish where I
 and he laboured many months to get me into prison, and take away my substance;
 sparing no cost until he got me into the Fleet-prison in London, where I was both before,
 and at the time of the great frost,^
-footnote:[According to a respectable publication of Remarkable Occurrences,
+footnote:[According to a respectable publication of [.book-title]#Remarkable Occurrences,#
 this frost commenced in the Tenth Month, 1683, and continued 13 weeks.]
 and thus came to be separated from my dear wife and children:
 in about a years time after, my family removed up to London.
@@ -267,6 +290,9 @@ known to the Lord, who was with me, as his word was often to me in my travails.
 
 About the space of two years after, the priest came to the prison,
 caused the doors to be opened, and brought me out; and some time after he died.
+
+[.small-break]
+'''
 
 +++[+++Our historian John Gough, in his account of Charles Marshall,
 states the following particulars respecting this imprisonment: In the year 1682,
@@ -277,6 +303,9 @@ the Barons of the Exchequer and committed to the Fleet-prison,
 where he was confined for the space of two years.
 The priest growing uneasy in his mind about this time, came in person to the prison,
 released him, and soon after died.--Ed.]
+
+[.small-break]
+'''
 
 I then settled, with my family near London,
 and for many years laboured in the gospel in that city;
@@ -297,16 +326,21 @@ Oh, that they may be a worthy people,
 to the praise and renown of the name of the Lord! is my souls cry to the God of my life,
 on their behalf.
 
+[.signed-section-signature]
 Charles Marshall.
+
+[.small-break]
+'''
 
 +++[+++The account which follows,
 of the peaceful close of this diligent labourer in the Lords vineyard,
 is extracted from Gough`'s History of Friends, and Piety Promoted: and as it is,
 for the most part,
 additional to that contained in the Testimonies which precede the Journal,
-the Editor trusts it will not be considered unsuitably appended in this place.
+the Editor trusts it will not be considered unsuitably appended in this place.]
 
-* * *
+[.asterism]
+'''
 
 His last journey was to Bristol and the western counties; after his return from which,
 he was visited with a lingering indisposition, which proved mortal,
@@ -377,4 +411,4 @@ which he was going to receive the fulness of:
 the observation of his peace and happy condition, much affected those present.
 And so he departed like a child, in a quiet frame of spirit, the 15th of the Ninth Month,
 in the year, 1698, aged 61 years, and was buried from Gracechurch-street Meeting-house,
-in Friends burial ground, near Bunhill-fields, London.]
+in Friends burial ground, near Bunhill-fields, London.

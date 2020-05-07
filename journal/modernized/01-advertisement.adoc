@@ -8,8 +8,8 @@ ____
 == Advertisement.
 
 The present volume contains the writings of Charles Marshall,
-as published in the year 1704, (under the title of "`Zion`'s Travellers Comforted,
-and the Disobedient Warned,`") with the exception of a very few pieces,
+as published in the year 1704, (under the title of [.book-title]#Zion`'s Travellers Comforted,
+and the Disobedient Warned,#) with the exception of a very few pieces,
 which either apply particularly to the circumstances
 of the times in which the author lived,
 or are of similar import to other parts of the work.
@@ -41,6 +41,8 @@ a diligent observance of the injunction given forth by the great Head of the Chu
 that you may be accounted worthy to escape all these things,
 and to stand before the Son of man.`"
 
+[.signed-section-signature]
 Thomas Chalk
 
+[.signed-section-context-close]
 Kingston-on-Thames, Fourth Month, 1844.
