@@ -1,10 +1,12 @@
 == Chapter VI.
 
-An Epistle to the Flock of Christ Jesus, and professors of Truth in general amongst us:
-being to them a tender visitation from the True and Living God.
-+++[+++Reminding them of his gracious dealings with them,
-and containing sundry exhortations and warnings.]
+[.blurb]
+=== An Epistle to the Flock of Christ Jesus, and professors of Truth in general amongst us: being to them a tender visitation from the True and Living God. +++[+++Reminding them of his gracious dealings with them, and containing sundry exhortations and warnings.]
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dearly Beloved Friends,
 
 When we sat in darkness, and in the region of the shadow of death,
@@ -37,7 +39,7 @@ and the nature of transgression exalted above all that was called God in us.
 Then we had not only a sight of this our deplorable state,
 but also a sight of him whom we had pierced,
 and whose countenance we saw marred more than any
-mans and his visage more than the sons of men;
+man'`s and his visage more than the sons of men;
 and here many knew a day of mourning, of passing through a vale of tears,
 and a drinking of a cup of trembling from the hand of the Lord:
 for our awakened souls cried unto the Lord,
@@ -404,8 +406,8 @@ nor will every seek an interest of their own amongst any, but honour God alone,
 and be as worms before the Lord.
 But it is not so with the false birth; its life is not in meekness, but in the contrary:
 so here all may know the motions of the one from the other:
-where the true motion of life is, the mind is brought into stillness,
-to wait on the Lord, and there the will of God comes to be sealed to the understanding.
+_where the true motion of life is, the mind is brought into stillness,
+to wait on the Lord, and there the will of God comes to be sealed to the understanding._
 
 And, all Friends everywhere, keep diligently your meetings;
 for our meetings were set up by the Lord God of Abraham, Isaac and Jacob,
@@ -496,6 +498,10 @@ and comfort of every faithful follower of the Lord.
 Given forth in obedience to the requirings of the Lord,
 through one who is a travailler for Zions redemption.
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.signed-section-context-close]
 1672.
+
+--

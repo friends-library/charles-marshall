@@ -1,7 +1,9 @@
 == Chapter XVII.
 
+[.letter-heading]
 An Epistle to Friends, exhorting them to wait on the Lord.
 
+[.salutation]
 Friends,
 
 In the fear and dread of the Almighty it is upon me to say unto you,
@@ -19,14 +21,14 @@ And Friends, I cannot but say in the name and power of the Lord God,
 this ought to be the first thing desirable amongst us:
 and it is upon me to remind you of the tender visitation
 that reached unto us some months since,
-which was in order to what I have afore spoken; for as we all come,
+which was in order to what I have afore spoken; _for as we all come,
 through the operation of this immortal power of God,
 into the unity of the one eternal Spirit of life,
 all those outward exercises +++[+++which have been]
 run into, as the customs, fashions, ways and words of the world that are evil,
 will be cast off: yea,
 there will be a great tenderness in the very use of needful things,
-that the heart may be kept out of them.
+that the heart may be kept out of them._
 And Friends, it is on me to say unto you,
 let none of us quench the Spirit nor despise prophecy in ourselves,
 or in any of our brethren or sisters; for if we do, we hurt our own souls,
@@ -38,10 +40,10 @@ for that will burden others instead of refreshing them;
 for the heart may be refreshed and the power felt,
 and may be lost again through going forth.
 But this is certain,
-the motion of Gods power liveth and abideth in the stillness of all flesh; and +++[+++the more]
+the motion of God`'s power liveth and abideth in the stillness of all flesh; and +++[+++the more]
 the mind is retired into the true, inward silence,
 the motion of life doth the more shew itself,
-and the heart and mind come to be satisfied of Gods requirings;
+and the heart and mind come to be satisfied of God`'s requirings;
 and these in due time and season being brought forth,
 are a savour of life unto the living; but it is not so with the false birth,
 nor with the abortive.
@@ -124,7 +126,7 @@ cause the truth to be evil spoken of, and the name of the Lord to be blasphemed;
 I declare in the counsel, fear and dread of the Almighty Lord God of heaven and earth,
 if such do not speedily return to that pure principle,
 unto which they were directed in the day of their first tender visitation,
-in that to wait to know Gods immortal power to heal their backslidings,
+in that to wait to know God`'s immortal power to heal their backslidings,
 and his free love to come over all again,
 in which a testimony may arise in them against all that
 ever they have acted in their dealings or otherwise,
@@ -132,10 +134,10 @@ that hath caused the worthy, dear name of the Lord to be evil spoken of:
 I say that if such do not thus return, the day hastens, +++[+++in which]
 God will make them an astonishment to themselves and to all round about them;
 and will honour his great name over them in their destruction.
-Dear Friends, it was the arm of the Lord that gathered us to be a people; and it was,
+_Dear Friends, it was the arm of the Lord that gathered us to be a people; and it was,
 and is in obedience to him that we met and do meet together;
 our meetings did not rise by the will of men,
-neither will they go down by the will of men;
+neither will they go down by the will of men;_
 for God Almighty will fill the assemblies of his people, through this nation,
 with his dread; and no power, strength, nor arm shall break them,
 so as the people of the Lord shall not meet together to wait upon him and to worship him;
@@ -155,4 +157,5 @@ I am clear of their blood;
 and O! that every one of us may know the things that concern our peace.
 I am your friend and brother in the tender bowels of love,
 
+[.signed-section-signature]
 Charles Marshall.

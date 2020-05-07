@@ -1,10 +1,12 @@
 == Chapter XIX.
 
-An Epistle in the Love of God, to Friends everywhere, +++[+++exhorting them to perseverance.]
+[.blurb]
+=== An Epistle in the Love of God, to Friends everywhere, +++[+++exhorting them to perseverance.]
 
+[.salutation]
 Dear Friends,
 
-Who have been visited with the morning of the heavenly day of Gods everlasting love,
+Who have been visited with the morning of the heavenly day of God`'s everlasting love,
 and have seen the clear inshining of the celestial light thereof,
 through which the ancient,
 precious way of eternal life is cast up in the view of your understanding;
@@ -38,13 +40,16 @@ and so comes to have an heavenly place of joy in the mansion-house of the Lord.
 
 So to the heavenly, sweet Comforter, to his teachings,
 leadings and feedings I commit you all everywhere;
-and rest in the satisfactory knowledge of the prosperity of the Lords work,
+and rest in the satisfactory knowledge of the prosperity of the Lord`'s work,
 your brother in the labour tribulation and hope of the gospel of peace,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.offset]
 Postscript.
 
+[.salutation]
 And Dear Friends and Brethren,
 
 The lord hath suffered several trials to arise, since we have been a people,
@@ -65,17 +70,19 @@ and laying low the enemies of thy prosperity; causing more and more thy light to
 and break forth as brightness, and the glory of the Lord to arise on thee.
 Amen, Amen, saith my soul and spirit.
 
+[.signed-section-signature]
 C+++.+++ M.
 
-An Epistle to Friends, +++[+++recommending them to wait for,
-and live under the power of the Lord.)
+[.blurb]
+=== An Epistle to Friends, +++[+++recommending them to wait for, and live under the power of the Lord.)
 
+[.salutation]
 Dear Friends, Brethren and Sisters,
 
 Who have been visited with the morning of the eternal day,
 and by the arm of the mighty God,
 gathered from the barren mountains of lifeless professions;
-and called to come to the mountain of the Lords house; grace, mercy, and peace,
+and called to come to the mountain of the Lord`'s house; grace, mercy, and peace,
 life and divine virtue, God Almighty multiply and increase in and among you all; Amen,
 Amen.
 
@@ -162,19 +169,22 @@ Amen, Amen.
 
 Your tender, travailing brother, in the fellowship of the gospel of life and salvation.
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.offset]
 Postscript.
 
+[.salutation]
 Dear Friends,
 
-The Lords living call and counsel unto you all everywhere, is,
+The Lord`'s living call and counsel unto you all everywhere, is,
 that you diligently feel after, and wait for the living operations of that power of love,
 which brings to true contrition of spirit; that under the mighty hand of the Lord,
 +++[+++and his]
 dissolving life and power,
 all the families of Friends may be humbled before
-the day of the Lords humbling the people in judgment;
+the day of the Lord`'s humbling the people in judgment;
 that in that day you may be favoured of the Lord,
 as those were that sighed for the great iniquity of Jerusalem:
 so you being made sensible of the grievous oppressions
@@ -184,11 +194,13 @@ cry mightily unto the Lord God of Sabaoth, for the finishing of the sins thereof
 and bringing to an end its transgression; that so it may enjoy deliverance,
 and thereby a Sabbath.
 
+[.signed-section-signature]
 C+++.+++ M.
 
-An Epistle to Friends, +++[+++exhorting them to walk in the light, warning the disobedient,
-and recommending inwardness of spirit, humility and diligence.]
+[.blurb]
+=== An Epistle to Friends, +++[+++exhorting them to walk in the light, warning the disobedient, and recommending inwardness of spirit, humility and diligence.]
 
+[.salutation]
 Dear Friends,
 
 The High and Holy One, that inhabiteth eternity,
@@ -237,13 +249,14 @@ divine rain and heavenly dew will descend upon you,
 causing you to grow as a well-watered garden, even like Eden, before the Lord;
 in which he may take great delight.
 
-So dear Friends everywhere, double your diligence; redeem your time;
+_So dear Friends everywhere, double your diligence; redeem your time;
 feel and love the girdle of Truth to gird up the loins of your minds;
 and where any have been unwatchful, careless, or earthly-minded,
 let the time past be sufficient, I entreat you; and now in pure fear,
 living obedience and spiritual watchfulness, wait to feel the mighty power of the Lord,
 in that to increase in the increasing of God;
 in the power of whose love this comes unto you, through a servant of the Lord,
-and travailer for Zions welfare.
+and travailer for Zions welfare._
 
+[.signed-section-signature]
 Charles Marshall.

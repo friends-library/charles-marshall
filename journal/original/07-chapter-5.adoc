@@ -1,8 +1,9 @@
 == Chapter V.
 
-An Exhortation to the Quarterly, Monthly,
-and all other Meetings set apart for the transacting the affairs of Truth.
+[.blurb]
+=== An Exhortation to the Quarterly, Monthly, and all other Meetings set apart for the transacting the affairs of Truth.
 
+[.salutation]
 Dearly Beloved Friends,
 
 This exhortation ariseth in my heart, in the motion of Gods immortal Power and Spirit,
@@ -64,6 +65,8 @@ his holy glorious day-spring from on high.
 
 Your dear brother, in the measure of the grace of God received,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.signed-section-context-close]
 Sutton-under-Brailes, 14th of the Eleventh Month, 1671.

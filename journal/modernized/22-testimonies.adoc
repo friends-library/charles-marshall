@@ -1,5 +1,6 @@
 == Testimonies of Charles Marshall
 
+[.blurb]
 === George Whitehead`'s Testimony Concerning Charles Marshall, Deceased.
 
 What the Lord our God promised by holy prophets,
@@ -82,10 +83,13 @@ or inquirers after the way to life eternal;
 considering the validity and weight of his known evangelical ministry,
 and spiritual testimony.
 
+[.signed-section-signature]
 George Whitehead
 
+[.signed-section-context-close]
 London, the 15th of the Ninth Month, 1703.
 
+[.offset]
 Postscript.
 
 +++[+++With]
@@ -113,6 +117,7 @@ in the gospel of our Lord Jesus Christ; to whom be glory and dominion forever.
 
 Signed at our Second day`'s Morning Meeting, the 22nd of the Ninth Month, 1703.
 
+[.signed-section-signature]
 Ambrose Rigge.
 John Bowater.
 John Field.
@@ -131,6 +136,7 @@ William Hornoull.
 William Warren.
 Joseph Baines.
 
+[.blurb]
 === John Freame`'s Testimony Concerning Charles Marshall.
 
 Although the several testimonies, relating to our deceased friend Charles Marshall,
@@ -141,10 +147,10 @@ true love and respect which I bear to his memory;
 he having entertained a particular kindness to me from a child,
 and continued his friendship steadfastly to the end;
 affording me much of his company for the last ten years of his time,
-whereby I came to have a par ticular knowledge of him.
+whereby I came to have a particular knowledge of him.
 
 And I can truly say, that he was a faithful and true Friend; having often observed,
-where he pro fessed friendship +++[+++to any, it was so in reality, and not in show only;
+where he professed friendship +++[+++to any, it was so in reality, and not in show only;
 being ready to serve such to the utmost of his power,
 not forsaking them in a time of adversity.
 
@@ -165,7 +171,7 @@ He was also eminent for an innocent life and exemplary conduct;
 which being attended with good nature and a kind disposition,
 rendered his acquaintance and conversation both edifying and acceptable.
 
-He was of a peaceable spirit, making it his con cern to keep up love, unity and concord;
+He was of a peaceable spirit, making it his concern to keep up love, unity and concord;
 and, as occasion offered, frequently exhorting thereto: his demeanour was such,
 both in this and other respects, as made him an elder in the church,
 that deserved double honour; and it may be truly said of him, that he was a peace-maker,
@@ -191,14 +197,17 @@ and in a sweet composed frame of spirit, resigned up to the will of God:
 and although towards his latter end he grew very weak,
 yet he had still a care for the welfare of the church, and good of the poor,
 as appears by the following expressions,
-spoken to some minister ing Friends that came to visit him; and I being present,
+spoken to some ministering Friends that came to visit him; and I being present,
 and perceiving an earnest desire in him that the same should be communicated to Friends,
 committed them to writing presently after; which were to this effect:
-"`I have loved the brotherhood;
+
+[quote]
+____
+I have loved the brotherhood;
 I have sought the unity and peace of the church for these forty years;
 and to my great comfort, never did anything tending to the breach thereof.
 
-"`I have two things that lie upon me to Friends,
+I have two things that lie upon me to Friends,
 which I desire may be communicated to them: the first is,
 that they gather down into the immortal Seed and Word of Life in themselves,
 and be exercised in it before the Lord; and duly prize,
@@ -209,23 +218,27 @@ and be preserved in a living freshness to him;
 and the Lord will continue his mercies to them, and they shall not lack his divine,
 refreshing presence in their meetings together before him.
 
-"`The second thing is, that those Friends that the Lord has given great estates unto,
+The second thing is, that those Friends that the Lord has given great estates unto,
 ought to cast their bread upon the waters, and do good therewith in their life-time;
 for those that are enjoyers of such things should see that they are good stewards thereof.
 O! the many poor families that such persons might be a help to;
 how easily might they with a little, assist many a family to live in the world;
-and what a com fort would it be for such to see the
-fruits of their charity in their life-time.`"
+and what a comfort would it be for such to see the
+fruits of their charity in their life-time.
+____
 
 After which he grew daily weaker and weaker,
 and departed in great stillness and quietness of mind,
 being taken away from various troubles and exercises to possess
 and enjoy an incorruptible inheritance that will never fade away.
 
+[.signed-section-signature]
 John Freame.
 
+[.signed-section-context-close]
 London, the 25th of the Eighth Month, 1703
 
+[.blurb]
 === A Testimony concerning Charles Marshall.
 
 We understand that the memory of our ancient and faithful friend and brother,
@@ -263,13 +276,17 @@ in which we believe he continued stedfast to the very last:
 and having left this troublesome world, is translated to a better place,
 where he is at rest with the Lord.
 
+[.signed-section-signature]
 Thomas Callowhill, Richard Snead, William Smith, Charles Harford, Benjamin Coole,
 Charles Jones.
 
+[.signed-section-context-close]
 Bristol, 22nd of the Tenth Month, 1703.
 
+[.blurb]
 === Hannah Marshall`'s Testimony Concerning Her Husband Charles Marshall.
 
+[.salutation]
 Dear Friends,
 
 It is a Christian obligation, as well as a commendable practice,
@@ -297,10 +314,10 @@ which the wisdom of this world could never comprehend.
 He was often drawn forth in prophecy,
 which was attended with a suitable concern in himself,
 and which also affected those that heard him;
-nor did the con cern terminate when he had declared what was upon his mind,
+nor did the concern terminate when he had declared what was upon his mind,
 but in long and deep travail of soul would he plead with the Lord to hasten the good,
 and avert the evil;
-often with great brokenness of spirit beseech ing God to
+often with great brokenness of spirit beseeching God to
 bring over this land of his nativity a Nineveh-repentance,
 that thereby his judgments might be averted.
 In such travails as these did he spend the days of his strength, and prime of his years,
@@ -438,6 +455,8 @@ sighing, and tears will be done away;
 which is the travail and desire of my soul for all the visited of God,
 Who am your ancient and deeply afflicted Friend,
 
+[.signed-section-signature]
 Hannah Marshall.
 
+[.signed-section-context-close]
 London, the 1st of the Ninth Month, 1703.

@@ -1,8 +1,9 @@
 == Chapter IX.
 
-An Epistle to Friends coming forth in the beginning of a testimony:
-and of the snares of the enemy therein.
+[.blurb]
+=== An Epistle to Friends coming forth in the beginning of a testimony: and of the snares of the enemy therein.
 
+[.salutation]
 Dearly Beloved Friends,
 
 Who in your meetings and assemblies sometimes feel something of a testimony for the Lord,
@@ -52,7 +53,7 @@ and vanish in the approaching day of trial.
 And, dear Friends, as the mind and will of the Lord is made manifest,
 yield sincere obedience thereunto, if the requiring be but a few words;
 for I have seen it a dangerous thing to resist and
-rebel against the motions of Gods power,
+rebel against the motions of God`'s power,
 and have known many hours of sorrow for so rebelling.
 And in the day of a beginning of a testimony for the Lord, even in the upright heart,
 great will be the opposition of the enemy every way; where he cannot lead out before,
@@ -93,11 +94,13 @@ and this sometimes may extend to hurt others;
 out of which snare God Almighty preserve all; that so one may be a strength to another,
 taking one another by the hand, and saying one to another,
 let us go up to the mountain of the Lord, to the house of the God of Jacob;
-who will teach us more and more of his ways; and here, in all Gods holy mountain,
+who will teach us more and more of his ways; and here, in all God`'s holy mountain,
 is neither hurting nor destroying.
 
-Given forth in the moving of Gods eternal Spirit, through your dear brother,
+Given forth in the moving of God`'s eternal Spirit, through your dear brother,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.signed-section-context-close]
 1677+++.+++

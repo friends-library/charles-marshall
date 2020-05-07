@@ -1,8 +1,9 @@
 == Chapter XI.
 
-A Tender Visitation of Love, to the called of God everywhere;
-being a testimony to the precious, ancient, sweet, living power of the everlasting God.
+[.blurb]
+=== A Tender Visitation of Love, to the called of God everywhere; being a testimony to the precious, ancient, sweet, living power of the everlasting God.
 
+[.salutation]
 Dear Friends,
 
 Gather you everywhere inward, into a feeling of, and continuing with,
@@ -25,8 +26,8 @@ And that which may have the likeness of gold, and is not of a pure, enduring nat
 will vanish, and leave all poor that possess not the gold.
 
 So dear Friends, everywhere, I say unto you, in the dread, awe, fear,
-and name of the Lord, haste, haste out of all that is not weighty,
-out of the nature that keeps the soul in any bondage and distance from the Lord, Yea,
+and name of the Lord, _haste, haste out of all that is not weighty,
+out of the nature that keeps the soul in any bondage and distance from the Lord,_ Yea,
 hasten out of the state of professing the truth, in a nature and spirit contrary unto it,
 which grieves the Spirit of the Lord God.
 Dear Friends, the pure eye of the Lord that runs to and fro,
@@ -119,12 +120,16 @@ This is the testimony for the glorious Lord Omnipotent and Omnipresent.
 Of your dear, travailing friend and brother,
 in the labours and travail of the gospel of peace,
 
+[.signed-section-signature]
 Charles Marshall,
 
+[.signed-section-context-close]
 Tetherton, the 16th of the Eighth Month, 1679.
 
+[.letter-heading]
 An Epistle sent to Oxford.
 
+[.salutation]
 Dear Friends and Brethren,
 
 In the love of my Father is this salutation unto you,
@@ -145,11 +150,11 @@ and live and walk in that which makes for peace, and in the noble seed of life,
 in which the Father is honoured.
 And as you live, walk and persevere herein, you will see the evil seeds-man,
 and in every concern, keep in dominion over his sowings, through any occasion whatsoever,
-which is the thought and counsel of Israels God unto you.
+which is the thought and counsel of Israel`'s God unto you.
 That in and through the brightness of the everlasting, glorious Truth,
 you may shine in all your several places and services, and be good examples in love,
 fear and unity, and all sweetness of life to the adjacent country;
-that the rain of Gods heavenly love in showers may come
+that the rain of God`'s heavenly love in showers may come
 down daily upon and amongst you in every meeting and family;
 that you may grow like a well-watered garden, full of trees and plants of righteousness,
 and full of the divine virtue of the holy Vine of life.
@@ -157,16 +162,21 @@ God Almighty be with you in all your meetings and families,
 causing it thus to be with you,
 is the breathing of your travailing-spirited friend and brother,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.signed-section-context-close]
 For the Quarterly Meeting in Oxford, and from thence +++[+++to be]
 sent to Friends other meetings.
 
+[.signed-section-context-close]
 Cono-Alline, the 28th of Tenth Month, 1679.
 
+[.letter-heading]
 A General Epistle to Friends and professors of the truth,
 +++[+++on the necessity of the new birth.]
 
+[.salutation]
 Dear Friends,
 
 Who with the morning light of the eternal day have been visited,
@@ -247,8 +257,10 @@ and bringing forth the birth of the morning of his sweet day, through this and +
 nations, to the magnifying, renowning and exalting his blessed name forever,
 is the breathing and travail of your tribulated brother
 
+[.offset]
 Postscript.
 
+[.postscript]
 Dear Friends everywhere,
 feel that divine Hand and mighty Arm that gathered you out
 of the rollings and tossings of the nations and people,
@@ -257,12 +269,16 @@ where you may dwell alone out of the defilements of the nations;
 where the hiding place will be known, until the word of the Lord be fulfilled,
 and his indignation pass over, to accomplish his own determination in the earth.
 
+[.signed-section-signature]
 C+++.+++ M.
 
+[.signed-section-context-close]
 1680
 
+[.letter-heading]
 An Epistle to Friends, chiefly at Bristol.
 
+[.salutation]
 Dear Friends,
 
 Who are called of God, by the heavenly voice of his Spirit, out of the world,
@@ -270,7 +286,7 @@ its evil ways, evil works, vain worships, and corrupt nature,
 to walk in the way of the Lord, and take up the daily cross,
 which crucifies you to the world, and the world to you, and brings you to the divine,
 sweet nature of God, in which is life, virtue and peace: dear Friends,
-travail on in the faith of Gods elect; be not discouraged at the mountains and hills,
+travail on in the faith of God`'s elect; be not discouraged at the mountains and hills,
 the sea nor the Egyptians; but look to the fiery pillar of God,
 the preservation of his called and chosen:
 stand still in the light of the glorious gospel,
@@ -339,6 +355,8 @@ and shine amongst you all in his Divine brightness;
 in whose love I am your friend and brother,
 in the tribulation and patience of Christ our Lord.
 
+[.signed-section-signature]
 C+++.+++ M.
 
+[.signed-section-context-close]
 The Ninth Month, 1683.
