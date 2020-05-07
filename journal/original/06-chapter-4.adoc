@@ -1,10 +1,7 @@
 == Chapter IV
 
-A Testimony to the glorious morning of the day of visitation of the love of God,
-(in particular to the city of Bristol,
-and adjacent parts;) and to the great and mighty power of the Lord,
-which appeared in and with his two precious servants John Camm and John Audland,
-who came to that city in the year 1654.
+[.blurb]
+=== A Testimony to the glorious morning of the day of visitation of the love of God, (in particular to the city of Bristol, and adjacent parts;) and to the great and mighty power of the Lord, which appeared in and with his two precious servants John Camm and John Audland, who came to that city in the year 1654.
 
 After the long and tedious night of apostacy spread over nations,
 and dismal darkness over people,
@@ -333,4 +330,5 @@ and his church and people through ages the comfort and consolation.
 Amen.
 Amen.
 
+[.signed-section-signature]
 Charles Marshall.

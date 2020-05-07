@@ -1,6 +1,7 @@
 == The Preface
 
-By William Penn.
+[.blurb]
+=== By William Penn
 
 I must needs say,
 it is with some sadness that I remember the departure of so many of the Lord`'s worthies,
@@ -96,4 +97,5 @@ which is the very sum and substance of religion;
 and that one generation may become heirs in holiness to another, till days be no more,
 and time be swallowed up in eternity.
 
+[.signed-section-signature]
 William Penn.
