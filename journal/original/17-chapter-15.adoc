@@ -1,6 +1,7 @@
 == Chapter XV.
 
-Concerning the precious Unity of the Spirit in Christ Jesus.
+[.blurb]
+=== Concerning the precious Unity of the Spirit in Christ Jesus.
 
 The unity of the Spirit is so precious a virtue,
 and glorious a qualification in all the churches of Christ Jesus,
@@ -41,7 +42,7 @@ having the moon under her feet.
 Ah! precious, blessed, sweet and glorious station.
 But did it always thus continue, even in the apostles days?
 Ah! no.
-The old serpent, the enemy of mans welfare, wrought powerfully and cunningly,
+The old serpent, the enemy of man`'s welfare, wrought powerfully and cunningly,
 to draw forth from the root of life, and out of the holy love of,
 and spiritual subjection to, this glorious power which had gathered them to a daily,
 inward walking with God;
@@ -117,7 +118,7 @@ let none give strength,
 or any encouragement or nourishment to this spirit
 in any of its murdering workings in the heart;
 but let it be looked upon as a vagabond and fugitive on the earth: and so,
-as it is kept out of the camp of God, and from Israels dwellings, by the sweet, living,
+as it is kept out of the camp of God, and from Israel`'s dwellings, by the sweet, living,
 bright power of the great God of heaven and earth,
 it will perish under Truths judgment set up in every soul; and the nature thereof,
 as well as its evil, rending and dividing fruits will be worn out and destroyed forever.
@@ -183,5 +184,8 @@ his presence and glorious arm of salvation shall surround you, to the renown of 
 and consolation of his people.
 Amen, Amen.
 
+[.signed-section-signature]
 Charles Marshall.
+
+[.signed-section-context-close]
 1697.

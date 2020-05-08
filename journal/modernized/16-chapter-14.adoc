@@ -1,8 +1,9 @@
 == Chapter XIV.
 
-A General Epistle to Friends, +++[+++cautioning against the spirit of the world,
-and recommending watchfulness, unity, humility and stillness.]
+[.blurb]
+=== A General Epistle to Friends, +++[+++cautioning against the spirit of the world, and recommending watchfulness, unity, humility and stillness.]
 
+[.salutation]
 Dear Friends and Brethren,
 
 Who with a high and heavenly calling have been called out of darkness,
@@ -91,7 +92,7 @@ in the faith of Abraham, who said to Lot let there be no strife between us,
 for we are brethren; if you will take the right hand, I will take the left;
 and if you will go to the left, I will go to the right:
 here all controversies are ended and shut out.
-Dear Friends, with the light of Gods holy day search, see and discern how it is with you;
+Dear Friends, with the light of God`'s holy day search, see and discern how it is with you;
 that so if the enemy of Zion`'s prosperity has gotten any entrance,
 to hinder the precious work of the Lord, from prospering in your souls,
 by +++[+++prevailing on you to]
@@ -139,10 +140,12 @@ And dear Friends, you that God has blessed with outward substance,
 feel the love of Christ Jesus, who offered himself up for us, to open your hearts,
 and give you wisdom to take effectual care of the poor and needy,
 according to your ability.
-So to the glorious arm of Gods Almighty power I commit you; and having done his will,
+So to the glorious arm of God`'s Almighty power I commit you; and having done his will,
 I rest in my Fathers love, your tender friend and brother,
 in the labour and travail of the gospel,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.signed-section-context-close]
 London, the 25th of the Second Month, 1697.

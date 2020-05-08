@@ -1,33 +1,55 @@
 == Chapter XII.
 
-A Tender Visitation in the love of God, unto all people everywhere;
-particularly unto the inhabitants of Wiltshire, Gloucestershire, and Bristol,
-and to my neighbours in and about Tetherton, Calloways,
-and the adjacent towns and villages.
+[.embedded-content-document.epistle]
+--
 
-"`And unto this people thou shalt say; thus saith the Lord,
-behold I set before you the way of life, and the way of death.`" Jer. 21:8.
+[.blurb]
+=== A Tender Visitation in the love of God, unto all people everywhere; particularly unto the inhabitants of Wiltshire, Gloucestershire, and Bristol, and to my neighbours in and about Tetherton, Calloways, and the adjacent towns and villages.
+
+[quote.scripture, , Jer. 21:8]
+____
+
+And unto this people thou shalt say; thus saith the Lord,
+behold I set before you the way of life, and the way of death.
+____
+
+[quote.scripture, , Prov. 6:23]
+____
 
 For the commandment is a lamp, and law is light,
-and reproofs of instruction are the way of life. Prov. 6:23.
+and reproofs of instruction are the way of life.
+____
 
-"`Take fast hold of instruction, let her not go: keep her; for she is thy life. Prov. 4:13.
+[quote.scripture, , Prov. 4:13]
+____
 
-"`For we must all appear before the judgment seat of Christ;
+Take fast hold of instruction, let her not go: keep her; for she is thy life.
+____
+
+[quote.scripture, , 2 Cor. 5:10-11]
+____
+
+For we must all appear before the judgment seat of Christ;
 that every one may receive the things done in his body, according to that he hath done,
 whether it be good or bad.
-Knowing therefore the terrors of the Lord, we persuade men.`" 2 Cor. 5:10-11.
+Knowing therefore the terrors of the Lord, we persuade men.
+____
 
-"`Tribulation and anguish upon every soul of man that doeth evil, of the Jew first,
+[quote.scripture, , Rom. 2:9-11]
+____
+
+Tribulation and anguish upon every soul of man that doeth evil, of the Jew first,
 and also of the Gentile; but glory, honour, and peace to every man that worketh good,
 to the Jew first, and also to the Gentile:
-for there is no respect of persons with God.`" Rom. 2:10-9.
+for there is no respect of persons with God.
+____
 
+[.salutation]
 Friends, Neighbours, and Countrymen,
 
 Amongst whom I have had my conversation in times past,
 in the fear of the Lord God of heaven and earth; and now being a sufferer in this prison,
-for Jesus Christs sake, I am constrained in his tender love, to visit you by these lines,
+for Jesus Christ`'s sake, I am constrained in his tender love, to visit you by these lines,
 +++[+++in order to]
 to stir you up to a serious and tender examination and consideration,
 what way you are walking in; seeing there are but two ways, as Christ Jesus saith, Matt. 7:13-14.
@@ -342,7 +364,7 @@ and like the trace of a bird through the air.
 
 Well, therefore, since our life is so uncertain and death so certain,
 dear countrymen and neighbours, in the tender bowels of Christ Jesus, I beseech you,
-for your own poor souls sake, whilst you have time, a very little time,
+for your own poor souls sake, whilst you have time, a _very little time,_
 so to number your days, and remember your latter end,
 as to apply your hearts to that heavenly wisdom,
 which teacheth and instructeth to walk in the narrow way of self-denial,
@@ -411,7 +433,8 @@ of which I have, in his love, before treated; and in verses 15 and 16, he saith,
 beware of false prophets, etc.
 Ye shall know them by their fruits, etc.
 
-TRUE MINISTERS
+[.blurb]
+=== True Ministers
 
 Christ sent them forth to preach the kingdom of God; saying, the harvest truly is great,
 but the labourers are few; pray ye therefore the Lord of the harvest,
@@ -427,7 +450,8 @@ taking the oversight thereof, not by constraint, but willingly; not for filthy l
 but of a ready mind; neither as being lords over Gods heritage,
 but being ensamples to the flock. 1 Pet. 5:1-3.
 
-FALSE MINISTERS.
+[.blurb]
+=== False Ministers
 
 Thus saith the Lord concerning the prophets that make my people err,
 that bite with their teeth, and cry, Peace; and he that putteth not into their mouths,
@@ -440,9 +464,13 @@ should not the shepherds feed the flocks?
 Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed:
 but ye feed not the flock, etc., Ezek. 34:2-5.
 
+[.signed-section-signature]
 C+++.+++ M.
 
+[.signed-section-context-close]
 Fleet Prison, The 9th Month, 1683.
+
+--
 
 O! thou holy, most high God of mercy and tender compassion,
 look down with an eye of pity on the inhabitants of the earth;

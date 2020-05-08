@@ -1,9 +1,7 @@
 == Chapter XIII.
 
-A few words or call, in the universal love, to all the scattered sheep,
-who in the sense of their captivity in Babylon, feel some drawings, longings,
-and breathings in their souls, towards the Lord and his holy hill,
-which he is now exalting on the top of all hills.
+[.blurb]
+=== A few words or call, in the universal love, to all the scattered sheep, who in the sense of their captivity in Babylon, feel some drawings, longings, and breathings in their souls, towards the Lord and his holy hill, which he is now exalting on the top of all hills.
 
 The everlasting God hath beheld you and your suffering state; and your cries,
 your sighs and your groans, are come up before the Lord God of Sabaoth;
@@ -79,15 +77,19 @@ all of you who have any desires towards the Lord; and be assured that all that c
 shall find a sure hiding place in the day of the fiery indignation of the Lord,
 that is ready to break forth upon all the inhabitants of the earth.
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.signed-section-context-close]
 Written from Harwich, the 1st of the Fifth Month, 1687.
 
+[.letter-heading]
 An Epistle to Friends.
 
-An Epistle to Friends, +++[+++exhorting them to self-examination,
-and warning against false liberty.]
+[.blurb]
+=== An Epistle to Friends, +++[+++exhorting them to self-examination, and warning against false liberty.]
 
+[.salutation]
 Dear Friends,
 
 And all professing the precious truth of our God,
@@ -166,7 +168,7 @@ and abiding in a living inward diligence, out of the foolish virgins state,
 where through spiritual idleness, comes spiritual slumber, to the losing the oil,
 and so the lamp goes out: but abiding in a daily subjection to the heavenly cross,
 in the holy watch, +++[+++you will]
-grow up to the young mans state, wherein ye become strong,
+grow up to the young man`'s state, wherein ye become strong,
 and the word of God abides in you; and you abiding in it, will overcome the wicked one,
 and escape the high-way, stony and thorny ground: and so the increase of riches,
 or any terrestrial enjoyment, will not harm you; for you will feed on another life,
@@ -188,12 +190,16 @@ Amen, Amen.
 
 From your tender Friend and Brother in the labour and travail of the gospel,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.signed-section-context-close]
 The Fifth Month, 1689.
 
+[.letter-heading]
 An Epistle to the Women`'s Meetings.
 
+[.salutation]
 My Dear Friends,
 
 Whose souls love Mount Zion and Jerusalem that is from above,
@@ -248,8 +254,10 @@ and answer your supplications, tears, sighs and groans.
 God Almighty be with you, and fill you with the fillings of his life and heavenly wisdom,
 is the breathing and travail of the soul of your bowed-spirited friend and brother,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.postscript]
 Postscript.
 
 And the Lord Almighty cause a plenteous, pleasant, heavenly,
@@ -275,6 +283,8 @@ Let this be read in the assemblies of women,
 in the fear and feeling of the power of the Lord of glory; and copied carefully,
 and sent abroad.
 
+[.signed-section-signature]
 C+++.+++ M.
 
+[.signed-section-context-close]
 Tetherton, the 23rd of Second Month, 1697.
