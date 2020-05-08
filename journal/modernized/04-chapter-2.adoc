@@ -98,7 +98,7 @@ I had a meeting at Calne, and one at Marlborough.
 21, Nailsworth.
 22, Cirencester.
 Then I came to Bristol, out of Wiltshire, went out again on the 5th of 12th Month,
-13 1670, +++[+++and was+++]+++
+13 1670, +++[+++and was&#93;
 at the General Meeting at Nailsworth.
 12th Mo. 9th, Oldstone.
 12, Pucklechurch.
@@ -124,7 +124,7 @@ at the General Meeting at Nailsworth.
 19, Evesham, two meetings.
 20, Tewksbury and Gloucester.
 Then to Bristol.
-I went again from Bristol the 30th of the 1st Month, called March, +++[+++O.S.+++]+++
+I went again from Bristol the 30th of the 1st Month, called March, +++[+++O.S.&#93;
 31, at Cannings, (a General Meeting.) 2nd Mo. 1st, Calne.
 2+++.+++ Foxham.
 3, Cheverell.
@@ -187,7 +187,7 @@ Mounts.
 6, Ipswich.
 10, Mendlesham.
 12, 13, Ibid, Quarterly Meeting.
-14, Two Meeting +++[+++Meetings+++]+++
+14, Two Meeting +++[+++Meetings&#93;
 at Bury.
 15, Snarehill.
 16, Ramplingham.
@@ -235,7 +235,7 @@ Thomas Stordys, within two miles of Scotland.
 20, Week.
 21, Calne.
 23, 24, Andover.
-Then I went to London, and through the Meetings +++[+++of that city,+++]+++
+Then I went to London, and through the Meetings +++[+++of that city,&#93;
 from the 26th of the 7th Month to the 8th of the 8th Month, and from there into Essex,
 where I had three Meetings, and so into Suffolk;
 from there I returned to London in about five days, and had two meetings more.
@@ -244,7 +244,7 @@ which was about the 20th of the 8th Month, 1671.
 Then I spent some time in visiting the meetings in and about Bristol,
 and almost all the meetings in Wiltshire, and part of those in Gloucestershire.
 I went again from Bristol on the 2nd of the 11th Month, 1671,
-+++[+++and attended meetings as follows.+++]+++
++++[+++and attended meetings as follows.&#93;
 11th Mo. 4th, at Cirencester.
 5, Gloucester.
 7, Nailsworth.
@@ -351,7 +351,7 @@ but was raised by the power of God.
 After my recovery, I visited Friends about Wiltshire.
 On the 4th of the 8th Month, 1672, I took my journey for London,
 having a particular requiring to visit that city.
-8th Mo. 4th, +++[+++I attended+++]+++
+8th Mo. 4th, +++[+++I attended&#93;
 Devizes Quarterly Meeting.
 8th Mo. 5th, Marlborough.
 6, Reading.
