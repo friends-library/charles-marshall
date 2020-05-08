@@ -1,6 +1,7 @@
 == Chapter VIII
 
-A Warning Unto the Rulers and People of England, in the Tender Love of God
+[.blurb]
+=== A Warning Unto the Rulers and People of England, in the Tender Love of God
 
 Give ear and hear, all you rulers and inhabitants of these northern islands:
 God Almighty, even the God of Abraham, Isaac and Jacob, in this latter age of the world,
@@ -42,16 +43,20 @@ name and power of the everlasting God, that these things spoken and written of u
 are as false as the accusations of the Pharisees concerning Christ Jesus,
 and as false as the accusations of the Jews concerning the apostles.
 
+[.numbered]
 1+++.+++ For, first, we declare to all nations, tongues and languages,
 that we believe in the One, Holy, Everlasting God.
 
+[.numbered]
 2+++.+++ We believe concerning him, that he is a Spirit; and concerning his worship,
 that it is in spirit and spiritual.
 
+[.numbered]
 3+++.+++ We believe, preach, and publish salvation in, or by no other name, but in, by,
 and through him, of whom all the prophets gave testimony, the apostles preached,
 the primitive saints believed and received, namely, Jesus Christ.
 
+[.numbered]
 4+++.+++ We declare we are so far from denying or having any light esteem of that holy,
 honourable record, the Scriptures of Truth,
 that we are often greatly bowed and tendered in spirit,
@@ -99,7 +104,7 @@ and bringing in everlasting righteousness.
 
 And therefore, as you desire to prosper,
 let none endeavour to hinder this work of the Lord; for all that shall presume so to do,
-Gods heavy hand will be upon them, and their plagues shall be wonderful and astonishing:
+God`'s heavy hand will be upon them, and their plagues shall be wonderful and astonishing:
 and so let all the prejudices and ill resentments
 that have been received into the minds of any people,
 through the enmity and ignorance of men, be dispossessed;
@@ -126,10 +131,13 @@ and bring them to the blessed sheepfold of Christ Jesus, is the desire of him,
 who is a travailer in body and spirit for the outcasts of Israel, and scattered of Jacob,
 that they may be gathered.
 
+[.signed-section-signature]
 Charles Marshall.
 
-An Epistle to Friends +++[+++Under Sufferings.]
+[.blurb]
+=== An Epistle to Friends +++[+++Under Sufferings.]
 
+[.salutation]
 Dear Friends and Brethren,
 
 That are suffering for your meeting together,
@@ -186,6 +194,8 @@ and to the refreshing and comforting of you all;
 in whose name I send this his counsel among you,
 who am your brother in labour and travail of the gospel of life and salvation.
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.signed-section-context-close]
 Tetherton, the 20th of the Second Month, 1677.
