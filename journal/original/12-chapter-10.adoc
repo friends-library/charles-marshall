@@ -1,7 +1,9 @@
 == Chapter X.
 
-An Epistle to the Women`'s Half-Yearly Meeting, 1677.
+[.blurb]
+=== An Epistle to the Women`'s Half-Yearly Meeting, 1677.
 
+[.salutation]
 Dear Friends,
 
 Keep your meetings in the name of the Lord Jesus Christ,
@@ -40,13 +42,14 @@ Farewell in the Lord.
 
 I am your tender friend, in the labour of the Gospel of Peace,
 
+[.signed-section-signature]
 Charles Marshall.
 
-An Epistle to Friends in and about Bristol.
+[.blurb]
+=== An Epistle to Friends in and about Bristol.
 
 Friends and professors of the truth, in and about Bristol,
-
-This to you is my message, in the name of the King of kings, and Lord of lords.
+this to you is my message, in the name of the King of kings, and Lord of lords.
 
 Let all flesh be silent before the Lord, amongst you; cease from a multitude of words,
 that is not from the guidance of the Word, which was in the beginning;
@@ -66,7 +69,7 @@ that is upon me at this time, thus to write.
 And let all pride, superfluity, and all loftiness in the enjoyment of perishing things,
 be searched out in all families; even every hidden thing of Esau`'s mountain.
 
-And in the dread of Israels God, let all mind their latter end; lest the grave-clothes,
+And in the dread of Israel`'s God, let all mind their latter end; lest the grave-clothes,
 and winding-sheet, become your swaddling-bands, and you not in a prepared state for it.
 My soul is filled with the love of my God,
 and my spirit is overcome with the dread of the Lords power,
@@ -95,12 +98,14 @@ and the Lord will be with you, (you shall see it), in whose name I send this amo
 Who am your friend and brother in the labour, tribulation,
 and patience of the gospel of peace, and a servant of the living God.
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.signed-section-context-close]
 Written in the year 1677.
 
-Another Epistle to the flock of Christ Jesus: +++[+++exhorting to self-denial, stillness,
-watchfulness, and earnest prayer for the establishment of universal peace.]
+[.blurb]
+=== Another Epistle to the flock of Christ Jesus: +++[+++exhorting to self-denial, stillness, watchfulness, and earnest prayer for the establishment of universal peace.]
 
 All tender Friends, whose faces are turned from the world Zionward,
 love the dawning of the day of light in your souls, and take heed to the sure word;
@@ -255,6 +260,8 @@ which would make all rulers and people happy, both in this world,
 and that which is to come.
 Amen, Amen, Amen, saith the tribulated, travailing soul of your friend and brother,
 
+[.signed-section-signature]
 C+++.+++ M.
 
+[.signed-section-context-close]
 Tetherton, Twelfth Month 13th, 1678.
