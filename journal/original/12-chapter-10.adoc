@@ -1,7 +1,7 @@
 == Chapter X.
 
 [.blurb]
-An Epistle to the Women`'s Half-Yearly Meeting, 1677.
+=== An Epistle to the Women`'s Half-Yearly Meeting, 1677.
 
 [.salutation]
 Dear Friends,
@@ -46,7 +46,7 @@ I am your tender friend, in the labour of the Gospel of Peace,
 Charles Marshall.
 
 [.blurb]
-An Epistle to Friends in and about Bristol.
+=== An Epistle to Friends in and about Bristol.
 
 Friends and professors of the truth, in and about Bristol,
 this to you is my message, in the name of the King of kings, and Lord of lords.
@@ -105,8 +105,7 @@ Charles Marshall.
 Written in the year 1677.
 
 [.blurb]
-Another Epistle to the flock of Christ Jesus: +++[+++exhorting to self-denial, stillness,
-watchfulness, and earnest prayer for the establishment of universal peace.]
+=== Another Epistle to the flock of Christ Jesus: +++[+++exhorting to self-denial, stillness, watchfulness, and earnest prayer for the establishment of universal peace.]
 
 All tender Friends, whose faces are turned from the world Zionward,
 love the dawning of the day of light in your souls, and take heed to the sure word;

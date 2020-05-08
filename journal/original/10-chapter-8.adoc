@@ -137,8 +137,8 @@ Charles Marshall.
 [.embedded-content-document.epistle]
 --
 
-[.letter-heading]
-An Epistle to Friends +++[+++Under Sufferings.]
+[.blurb]
+=== An Epistle to Friends +++[+++Under Sufferings.]
 
 [.salutation]
 Dear Friends and Brethren,
