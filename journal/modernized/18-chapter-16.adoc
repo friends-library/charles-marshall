@@ -1,7 +1,9 @@
 == Chapter XVI.
 
+[.letter-heading]
 An Epistle to Friends in Pennsylvania.
 
+[.salutation]
 Dear Friends,
 
 In the heavenly covenant of Eternal Life, is the salutation of my love in the Lord Jesus,
@@ -31,12 +33,17 @@ so shall you prosper.
 In his love and fear, I send these few lines unto you;
 hoping you may be watchful and diligent in all things to glorify his name,
 who is over all, God blessed forever.
+
+[.signed-section-closing]
 Your tender friend,
 
+[.signed-section-signature]
 Charles Marshall.
 
-A Salutation to the Mens and Women`'s Meetings about the City of Bristol.
+[.letter-heading]
+A Salutation to the Men`'s and Women`'s Meetings about the City of Bristol.
 
+[.salutation]
 Dear Friends,
 
 In the ever-blessed truth of our God, which endures forever,
@@ -49,7 +56,7 @@ watch and take care of your own hearts and families,
 but also the flock and family of God where you live;
 therefore be careful and diligent in your meeting together, and in a faithful discharge,
 as before the Lord, to answer the service of your meetings effectually:
-and to that end I exhort you, in the dread of Israels God,
+and to that end I exhort you, in the dread of Israel`'s God,
 to wait diligently upon the Lord, to feel his sweet,
 opening power and spring of divine wisdom,
 that you may see your several places in the body,
@@ -63,7 +70,7 @@ when you are taken away, they may be ready to serve the Lord,
 being thus trained up in his way, in a holy freedom.
 And therefore I charge all young men and women,
 in the sight of Him who shall judge righteously, who has put you, in some measure,
-in a capacity to serve the Lord in the mens and women`'s meetings,
+in a capacity to serve the Lord in the men`'s and women`'s meetings,
 that you neglect not your care herein;
 lest the Lord God exercise you with various trials, unthought of by the careless mind.
 For if you do love, and give up to serve the Lord,
@@ -90,10 +97,13 @@ and to the Lamb forevermore.
 That you may have your lot and portion in that city,
 has been the travail of soul and ardent desire of your tender friend and brother,
 
+[.signed-section-signature]
 C+++.+++ M.
 
+[.letter-heading]
 An Epistle to the Captives.
 
+[.salutation]
 Dear Friends,
 
 In the everlasting, living, sweet Truth of our God, I dearly salute you;
@@ -118,6 +128,7 @@ slip wherein they might hasten your redemption.
 The salutation of their dear and tender love is unto you; so is mine;
 and I rest your tender friend,
 
+[.signed-section-signature]
 Charles Marshall.
 
 +++[+++It is probable, the Captives to whom this Epistle was addressed,
@@ -139,8 +150,10 @@ some other English slaves frequenting that meeting, came to be united with them.
 In the meanwhile the Quakers name came to be known at Algiers,
 as a people that might be trusted beyond others.--Editor.]
 
+[.letter-heading]
 An Epistle to Friends of Charlecot, in Wilts.
 
+[.salutation]
 Dear Friends,
 
 All keep on the watch-tower,
@@ -168,13 +181,17 @@ that so the servants of God coming among you, may be refreshed,
 your souls therein abundantly comforted, and the worthy name of the Lord God magnified:
 this is the breathing of your travailing friend and brother,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.postscript]
 Friends, be diligent in keeping your week-day meetings;
 it lies on my spirit to lay it on you at this time.
 
+[.letter-heading]
 A Letter to Friends of Falmouth.
 
+[.salutation]
 Dear Friends of Falmouth,
 
 My love in the living, quickening truth of God,
@@ -228,8 +245,10 @@ holy life before the world.
 My dear love salutes dear Friends about you: so in the yearning bowels of true love,
 after your prosperity and growth, I rest your travailing friend and brother,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.postscript]
 Dear Friends, as to my coming into your parts, I know nothing of it at the present;
-in Gods counsel and name I visited you, +++[+++and may again]
+in God`'s counsel and name I visited you, +++[+++and may again]
 if he require it of me; in his will I desire to live to the end of my day.

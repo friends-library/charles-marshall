@@ -1,7 +1,9 @@
 == Chapter XVIII.
 
-An Epistle to the Mens and Women`'s Meetings, in and about the City of London.
+[.letter-heading]
+An Epistle to the Men`'s and Women`'s Meetings, in and about the City of London.
 
+[.salutation]
 Dear Friends, Brethren and Sisters,
 
 Partakers of the heavenly calling of God, through Jesus Christ,
@@ -43,7 +45,7 @@ who appertain unto the flock and fold of our blessed Shepherd, walk as he walked
 in the harmless life of innocency.
 O! let none cast off his heavenly yoke, nor cast away his spiritual burden,
 nor get above his crucifying cross, into any fleshly liberty, or self-exaltation;
-but let the dread of Israels God be on your spirits,
+but let the dread of Israel`'s God be on your spirits,
 eying your excellent and high calling; +++[+++for you are called,]
 not only out of the world, its ways, impure religions and fallen worships,
 into a testimony against such; but further into the spiritual worship,
@@ -97,7 +99,7 @@ and out of that ground arise the exaltedness, haste, rashness, schisms, rents, s
 etc.
 
 Therefore in the meekness and gentleness of Jesus, treat one another;
-and if any feel their spirits warmed, and not with the heavenly power of Gods love,
+and if any feel their spirits warmed, and not with the heavenly power of God`'s love,
 (that guides to speak tenderly and respectfully one unto another,) let such a one,
 says the Spirit of Truth, sit silent until that is brought under,
 and the nature of the Lambs wisdom and meekness comes up,
@@ -155,15 +157,17 @@ The Lord God of our life warm all your hearts and souls, with his beams of glory
 and cause you, in the inward man, to partake of the blessings of the second covenant.
 
 So, having done the will of my God, and eased my spirit before him,
-I commit you to the word of Gods grace,
+I commit you to the word of God`'s grace,
 that is able to build you up in his most holy faith,
 and give you an eternal inheritance with his saints in light:
 +++[+++that this may be your portion]
 is the earnest breathing of your travailing brother, in the labour,
 tribulation and faith of the gospel,
 
+[.signed-section-signature]
 Charles Marshall.
 
+[.postscript]
 Glory and honour, might, majesty, with holy renown, and immortal dominion, be ascribed,
 with living high praises, to the Lord God, and the Lamb, who reigns in Zion,
 and before his brokenhearted, bowed-spirited ones, gloriously.
