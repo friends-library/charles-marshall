@@ -172,8 +172,8 @@ sent to Friends other meetings.
 [.signed-section-context-close]
 Cono-Alline, the 28th of Tenth Month, 1679.
 
-[.blurb]
-=== A General Epistle to Friends and professors of the truth,
+[.letter-heading]
+A General Epistle to Friends and professors of the truth,
 +++[+++on the necessity of the new birth.]
 
 [.salutation]
@@ -254,8 +254,10 @@ and bringing forth the birth of the morning of his sweet day, through this and +
 nations, to the magnifying, renowning and exalting his blessed name forever,
 is the breathing and travail of your tribulated brother
 
-[.postscript]
+[.offset]
 Postscript.
+
+[.postscript]
 Dear Friends everywhere,
 feel that divine Hand and mighty Arm that gathered you out
 of the rollings and tossings of the nations and people,

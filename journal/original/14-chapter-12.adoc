@@ -1,8 +1,5 @@
 == Chapter XII.
 
-[.embedded-content-document.epistle]
---
-
 [.blurb]
 === A Tender Visitation in the love of God, unto all people everywhere; particularly unto the inhabitants of Wiltshire, Gloucestershire, and Bristol, and to my neighbours in and about Tetherton, Calloways, and the adjacent towns and villages.
 
@@ -470,8 +467,7 @@ C+++.+++ M.
 [.signed-section-context-close]
 Fleet Prison, The 9th Month, 1683.
 
---
-
+[.postscript]
 O! thou holy, most high God of mercy and tender compassion,
 look down with an eye of pity on the inhabitants of the earth;
 and send forth thy light and truth more and more,

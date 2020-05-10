@@ -257,9 +257,10 @@ is the breathing and travail of the soul of your bowed-spirited friend and broth
 [.signed-section-signature]
 Charles Marshall.
 
-[.postscript]
+[.offset]
 Postscript.
 
+[.postscript]
 And the Lord Almighty cause a plenteous, pleasant, heavenly,
 refreshing shower to descend amongst you;
 that thereby you may be as a well-watered garden;
