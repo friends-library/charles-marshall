@@ -49,8 +49,6 @@ Charles Marshall.
 [.offset]
 Postscript.
 
-[.postscript]
-
 [.salutation]
 And Dear Friends and Brethren,
 
@@ -175,8 +173,6 @@ Charles Marshall.
 
 [.offset]
 Postscript.
-
-[.postscript]
 
 [.salutation]
 Dear Friends,
