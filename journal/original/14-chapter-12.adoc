@@ -468,6 +468,8 @@ C+++.+++ M.
 Fleet Prison, The 9th Month, 1683.
 
 [.postscript]
+====
+
 O! thou holy, most high God of mercy and tender compassion,
 look down with an eye of pity on the inhabitants of the earth;
 and send forth thy light and truth more and more,
@@ -483,3 +485,5 @@ that thy creation, O Lord, may be eased,
 and thy great name and the noble acts of thy Almighty arm and Divine
 power may be renowned gloriously through all lands.
 Amen, Amen.
+
+====

@@ -257,10 +257,10 @@ is the breathing and travail of the soul of your bowed-spirited friend and broth
 [.signed-section-signature]
 Charles Marshall.
 
-[.offset]
-Postscript.
+[.postscript]
+====
 
-And the Lord Almighty cause a plenteous, pleasant, heavenly,
+Postscript. And the Lord Almighty cause a plenteous, pleasant, heavenly,
 refreshing shower to descend amongst you;
 that thereby you may be as a well-watered garden;
 that all may be melted and dissolved down into that heavenly frame of spirit,
@@ -282,6 +282,8 @@ Amen, Amen.
 Let this be read in the assemblies of women,
 in the fear and feeling of the power of the Lord of glory; and copied carefully,
 and sent abroad.
+
+====
 
 [.signed-section-signature]
 C+++.+++ M.
