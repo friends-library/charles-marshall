@@ -89,10 +89,10 @@ George Whitehead
 [.signed-section-context-close]
 London, the 15th of the Ninth Month, 1703.
 
-[.offset]
-Postscript.
+[.postscript]
+====
 
-+++[+++With]
+Postscript.--+++[+++With]
 the foregoing testimony concerning our dear brother Charles Marshall deceased,
 his great labours and service in the gospel of Christ, and his zeal for God,
 and the spreading of the truth; his unfeigned love to his brethren,
@@ -115,6 +115,9 @@ of a tender spirit, full of love and zeal for God and his truth; +++[+++one who]
 laboured in his day and time for the good of souls,
 in the gospel of our Lord Jesus Christ; to whom be glory and dominion forever.
 
+====
+
+[.signed-section-context-close]
 Signed at our Second day`'s Morning Meeting, the 22nd of the Ninth Month, 1703.
 
 [.signed-section-signature]
