@@ -186,7 +186,7 @@ Mounts.
 5, Bucklesham.
 6, Ipswich.
 10, Mendlesham.
-12, 13, Ibid, Quarterly Meet-ing.
+12, 13, Ibid, Quarterly Meeting.
 14, Two Meeting +++[+++Meetings+++]+++
 at Bury.
 15, Snarehill.
