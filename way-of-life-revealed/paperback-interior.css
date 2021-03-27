@@ -1,4 +1,4 @@
-/* prevent awkward page break */
-.first-chapter h2 {
-  margin-top: 140pt;
+/* fix funky single-line last page */
+.trim--s .chapter#scattered-sheep {
+  margin-top: 1.85in;
 }
