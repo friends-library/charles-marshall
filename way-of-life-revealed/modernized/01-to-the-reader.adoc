@@ -1,3 +1,4 @@
+[.style-blurb]
 == To the Reader.
 
 Be serious when you take in hand to read this treatise,
