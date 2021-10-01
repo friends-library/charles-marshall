@@ -1,5 +1,5 @@
 [.style-blurb]
-== Section 1. Man`'s Happy State Before the Fall
+== Section I. Man`'s Happy State Before the Fall
 
 In the beginning God created the heaven and the earth;
 and after he had made all things on the earth, he made man in his own image,
